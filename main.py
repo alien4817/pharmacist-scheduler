@@ -6,21 +6,21 @@ import io
 
 # --- 員工名單，標註院區 ---
 employees = [
-    {"id": 1603, "name": "盧俊安", "default_location": "員榮"},
-    {"id": 1569, "name": "陳力健", "default_location": "員榮"},
-    {"id": 3440, "name": "李政育", "default_location": "員榮"},
-    {"id": 4375, "name": "曹嘉蕙", "default_location": "員榮"},
-    {"id": 3731, "name": "江哲賢", "default_location": "員榮"},
-    {"id": 3739, "name": "陳昱良", "default_location": "員榮"},
-    {"id": 6809, "name": "劉育慈", "default_location": "員榮"},
-    {"id": 2024, "name": "林雅玲(兼職)", "default_location": "員榮"},
-    {"id": 4167, "name": "黃惠敏", "default_location": "員生"},
-    {"id": 3572, "name": "黃凱群", "default_location": "員生"},
-    {"id": 3712, "name": "邱昶智", "default_location": "員生"},
-    {"id": 6501, "name": "賴映蓉", "default_location": "員生"},
-    {"id": 3820, "name": "廖期全", "default_location": "員生"},
-    {"id": 6832, "name": "張恬榕", "default_location": "員生"},
-    {"id": 6891, "name": "葉璟蒨(兼職)", "default_location": "員生"},
+    {"id": 1603, "name": "盧○安", "default_location": "員榮"},
+    {"id": 1569, "name": "陳○健", "default_location": "員榮"},
+    {"id": 3440, "name": "李○育", "default_location": "員榮"},
+    {"id": 4375, "name": "曹○蕙", "default_location": "員榮"},
+    {"id": 3731, "name": "江○賢", "default_location": "員榮"},
+    {"id": 3739, "name": "陳○良", "default_location": "員榮"},
+    {"id": 6809, "name": "劉○慈", "default_location": "員榮"},
+    {"id": 2024, "name": "林○玲(兼職)", "default_location": "員榮"},
+    {"id": 4167, "name": "黃○敏", "default_location": "員生"},
+    {"id": 3572, "name": "黃○群", "default_location": "員生"},
+    {"id": 3712, "name": "邱○智", "default_location": "員生"},
+    {"id": 6501, "name": "賴○蓉", "default_location": "員生"},
+    {"id": 3820, "name": "廖○全", "default_location": "員生"},
+    {"id": 6832, "name": "張○榕", "default_location": "員生"},
+    {"id": 6891, "name": "葉○蒨(兼職)", "default_location": "員生"},
 ]
 
 # --- 班別定義 ---
